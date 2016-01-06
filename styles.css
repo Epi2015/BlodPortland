@@ -1,0 +1,54 @@
+.header {
+  background-color: #808080;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+  border: solid;
+  border-color: black;
+  border-radius: 10px;
+}
+#img {
+  max-width: 100px;
+  margin-left: 50px;
+}
+#about {
+  float: right;
+  padding-left: 10px;
+  padding-right: 15px;
+  margin: 10 px;
+}
+#contact {
+  float: right;
+  margin: 10 px;
+  padding-left: 10px;
+}
+#comments {
+  float: right;
+  margin: 10 px;
+  padding-left: 10px;
+}
+h1 {
+  color:#0000FF;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 30px;
+  text-shadow: 2px 2px black;
+}
+#MtHood {
+  width:95%;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.intro {
+  border: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: #4682B4;
+  text-align: center;
+  margin-top: 5px;
+}
+.intro p {
+  font-family: Verdana;
+  font-size: 15px;
+}
